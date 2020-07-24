@@ -4,5 +4,5 @@ React Native Apps is a showcase of only UI Design with React Native. These apps 
 
 | Project                                                                             | Preview                                                                                                          | Screens | Estimation |       Status        |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | :-----: | :--------: | :-----------------: |
-| [Furniture App](https://www.uplabs.com/posts/furniture-apps)                        | <img src="FurnitureApp/assets/banner.png?raw=true" width="240" /> |    2    |  5 hours   | :white_check_mark:  |
-| [Shoes App](https://www.uplabs.com/posts/e-commerce-shop-home-delivery-shoe-app-ui) | <img src="ShoesApp/assets/preview.png?raw=true" width="240" /> |    2    |  6 hours   | :hammer_and_wrench: |
+| [Furniture App](https://github.com/HariKulhari06/React-Native-UI-Design/tree/master/FurnitureApp)                        | <img src="FurnitureApp/assets/banner.png?raw=true" width="240" /> |    2    |  5 hours   | :white_check_mark:  |
+| [Shoes App](https://github.com/HariKulhari06/React-Native-UI-Design/tree/master/ShoesApp) | <img src="ShoesApp/assets/preview.png?raw=true" width="240" /> |    2    |  6 hours   | :hammer_and_wrench: |
