@@ -1,6 +1,6 @@
 # FurnitureApp
 
-This is a sample react-natibe application
+This is a sample react-native application
 
 <p align="center">
 	<a href="./LICENSE">
