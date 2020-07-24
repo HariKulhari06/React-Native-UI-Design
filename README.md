@@ -1,4 +1,4 @@
-![React Native Apps](http://i.imgur.com/MmGT6cn.png "React Native Apps")
+![React Native Apps](https://github.com/HariKulhari06/React-Native-UI-Design/blob/master/Previews.png "React Native Apps")
 
 React Native Apps is a showcase of only UI Design with React Native. These apps do not have to be published to the App Store or anything, they are simply here to showcase work from within the community.
 
