@@ -125,7 +125,13 @@ export const HomeStack = (props) => {
           },
         }}
       />
-      <HomeStackNavigator.Screen name="ShoesDetails" component={ShoesDetails} />
+      <HomeStackNavigator.Screen
+        name="ShoesDetails"
+        component={ShoesDetails}
+        options={{
+          headerTitleStyle: styles.headerTitle,
+        }}
+      />
     </HomeStackNavigator.Navigator>
   );
 };

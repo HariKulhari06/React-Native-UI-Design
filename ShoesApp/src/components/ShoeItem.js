@@ -13,10 +13,7 @@ import Colors from '../constants/Colors';
 
 const ShoeItem = (props) => {
   return (
-    <TouchableNativeFeedback
-      onPress={() => {
-        props.onSelect;
-      }}>
+    <TouchableNativeFeedback onPress={props.onSelect}>
       <View style={styles.card}>
         <View style={styles.imageContainer}>
           <Image
